@@ -54,3 +54,4 @@ if username:
             st.warning("You don't have any past entries yet.")
 else:
     st.info("Please enter your name to begin.")
+
